@@ -37,8 +37,7 @@ About Me:
 <a href="https://twitter.com/turvec_dev"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40" style="vertical-align:top; margin:4px; color: blue"></a>
  <a href="https://www.linkedin.com/in/victor-okafor-blockchaindev/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px ; color: '#0A66C2'"></a>
  <a href="mailto:okaforturvec@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px; color: red"></a>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turvec&show_icons=true&theme=radical)     
+     
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=turvec&theme=github_dark)
  <br>
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turvec&layout=compact&theme=blue-green)
