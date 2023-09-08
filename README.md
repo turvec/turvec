@@ -4,7 +4,7 @@
 
 <hr/>
 <aside>
-📢 We at QuillAudits have -
+We at QuillAudits have -
 
 - 850+ Projects Audited in Defi, NFT and DAO
 - 800K + Lines of codes audited
