@@ -39,9 +39,8 @@ About Me:
  <a href="mailto:okaforturvec@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px; color: red"></a>
      
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=turvec&theme=github_dark)
- <br>
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turvec&layout=compact&theme=blue-green)
- <br>
+
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=turvec&layout=compact&theme=blue-green)
 
  ![](https://visitor-badge.laobi.icu/badge?page_id=turvec.turvec)
  </p>
