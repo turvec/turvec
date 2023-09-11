@@ -18,17 +18,12 @@ our Previous Audit reports can be viewed on our Github: https://github.com/Quil
 </aside>
 
 <hr/>
-<!-- **Ephraim-nonso/Ephraim-nonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
  
 About Me:
 
 ### A passionate dude acquainting and exploring knowledge around smart contract audit and major attack vectors.
 
 
-<hr/>
-- 👯 I’m looking to collaborate on web3 projects. 
-- <hr/>
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 📫 How to reach me: 
