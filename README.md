@@ -21,18 +21,47 @@ our Previous Audit reports can be viewed on our Github: https://github.com/Quil
  
 About Me:
 
-### A passionate dude acquainting and exploring knowledge around smart contract audit and major attack vectors.
+# Smart Contract Security Portfolio
 
+I'm a smart contract security researcher. This is my portfolio, which includes both private and public audits. I've found 120+ critical, high, and medium severity issues Overall.
 
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-📫 How to reach me: 
- <br>
- <p align="left">
-<a href="https://twitter.com/turvec_dev"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40" style="vertical-align:top; margin:4px; color: blue"></a>
- <a href="https://www.linkedin.com/in/victor-okafor-blockchaindev/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px ; color: '#0A66C2'"></a>
- <a href="mailto:okaforturvec@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px; color: red"></a>
- 
+---
+## 🧠 Skills
 
- ![](https://visitor-badge.laobi.icu/badge?page_id=turvec.turvec)
- </p>
+- **Languages**: Solidity, Rust, Move
+
+---
+
+### Public Audit Engagements
+
+| Project | Description | Platform | Result | leaderboard |
+|--------|-------------|----------|--------|--------|
+| Public External Audit Summary | Conducted audits on the Cantina and Sherlock Contest Platforms, specializing in smart contract security | Public Portfolio | 31 Highs 15 Mediums | [📄](https://audits.sherlock.xyz/watson/turvec) |
+| MorpheusAI | Ranked #1 in CodeHawks Morpheus 2024 | CodeHawks | #1/420 🥇 | [📄](https://codehawks.cyfrin.io/c/2024-01-Morpheus/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
+| Lybra | Ranked #3 in Code4rena Lybra Finance 2023 | Code4rena | #3/132 🥉 | [📄](https://code4rena.com/audits/2023-06-lybra-finance#top) |
+
+## Summary Statistics
+
+| Category | High | Medium | Total |
+|----------|------|--------|-------|
+| QuillAudits Private Audit | 35 | 38 | 73 |
+| Public Contests | 31 | 15 | 46 |
+| **Total** | **66** | **53** | 119 |
+
+## 🔐 Areas of Expertise
+
+I've audited projects in the following categories:
+
+- Lending/Borrowing
+- Vaults & Yield Aggregators
+- AMMs (Automated Market Makers)
+- Stablecoins
+- Account Abstraction
+- Cross-Chain Messaging
+
+I'm proficient in auditing **Solidity** codebases as well as **Move** and **Rust** contributing across ecosystems like Solana, Aptos and Sui.
+
+## Reach out here
+
+🐦 **Twitter**: [@turvec_dev](https://x.com/turvec_dev)  
+💼 **LinkedIn**: [Victor Okafor](https://www.linkedin.com/in/victor-okafor-blockchaindev/)  
