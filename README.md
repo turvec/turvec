@@ -15,6 +15,13 @@ I'm a smart contract security researcher. This is my portfolio, which includes b
 
 ---
 
+### Private Firm Audit Experience
+
+| Firm | Description | Platform | Result | Portfolio |
+|--------|-------------|----------|--------|--------|
+| QuillAudits | Audits Summary conducted as a full-time security researcher at QuillAudits, specifically in Solidity, Rust, and Move audits | Private Portfolio | 35 Highs 38 Mediums | [📄](https://www.quillaudits.com/auditors/turvec) |
+
+
 ### Public Audit Engagements
 
 | Project | Description | Platform | Result | leaderboard |
