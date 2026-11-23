@@ -1,6 +1,6 @@
 ### Hi there. 👋 
 
-### Victor, here. Smart Contract Auditor @QuillAudits
+### Victor, here. Smart Contract Auditor @Hacken
  
 About Me:
 
@@ -19,6 +19,7 @@ I'm a smart contract security researcher. This is my portfolio, which includes b
 
 | Firm | Description | Platform | Result | Portfolio |
 |--------|-------------|----------|--------|--------|
+| Hacken | Audits Summary conducted as a contractor security researcher at Hacken | Private Portfolio | 5 Highs 13 Mediums | [📄](https://hacken.io/) |
 | QuillAudits | Audits Summary conducted as a full-time security researcher at QuillAudits, specifically in Solidity, Rust, and Move audits | Private Portfolio | 35 Highs 38 Mediums | [📄](https://www.quillaudits.com/auditors/turvec) |
 
 
@@ -34,9 +35,10 @@ I'm a smart contract security researcher. This is my portfolio, which includes b
 
 | Category | High | Medium | Total |
 |----------|------|--------|-------|
+| Hacken | 5 | 13 | 18 |
 | QuillAudits Private Audit | 35 | 38 | 73 |
 | Public Contests | 31 | 15 | 46 |
-| **Total** | **66** | **53** | 119 |
+| **Total** | **66** | **53** | 137 |
 
 ## 🔐 Areas of Expertise
 
