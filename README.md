@@ -6,7 +6,7 @@ About Me:
 
 # Smart Contract Security Portfolio
 
-I'm a smart contract security researcher. This is my portfolio, which includes both private and public audits. I've found 120+ critical, high, and medium severity issues Overall.
+I'm a highly driven and inquisitive security researcher with a passion for understanding complex systems and pushing the boundaries of my technical expertise. I learn quickly, adapt readily to emerging technologies, and execute with a strong sense of precision and attention to detail. I value understanding the needs and objectives behind every engagement, with a commitment to delivering thorough security assessments and helping organizations build resilient systems.
 
 ---
 ## 🧠 Skills
